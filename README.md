@@ -6,7 +6,7 @@
 ```
 ### vue:
 ``` js
-  import draggable from 'vue-sortable'
+  import draggable from 'vue-sortablejs'
   ...
   export default {
         components: {

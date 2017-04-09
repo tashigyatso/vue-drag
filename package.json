@@ -1,18 +1,25 @@
 {
-  "name": "vue-sortable",
-  "version": "1.0.0",
+  "name": "vue-sortablejs",
+  "version": "1.0.1",
   "author": "sonam",
   "description": "sortablejs for vue",
   "keywords": [
     "vue",
     "drag",
-    "Sortable.js"
+    "Sortable.js",
+    "vue-sortable",
+    "vue-sortablejs"
   ],
-  "main": "dist/vuesortable.js",
+  "main": "dist/vue-sortable.js",
   "files": [
-    "dist/vuesortable.js"
+    "dist/vue-sortable.js"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/wy72yjf/vue-drag",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wy72yjf/vue-drag.git"
+  },
   "scripts": {
     "package:vue-sortable": "rollup -c build/package.vue-sortable.js",
     "package:vue-sortable:min": "rollup -c build/package.vue-sortable.min.js"
