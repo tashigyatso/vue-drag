@@ -4,7 +4,7 @@
    <div v-for="element in array">{{element.name}}</div>
 </draggable>
 ```
-.vue:
+### vue:
 ``` js
   import draggable from 'vue-sortable'
   ...
