@@ -7,12 +7,13 @@
 ### vue:
 ``` js
   import draggable from 'vue-sortablejs'
-  ...
   export default {
-        components: {
-            draggable,
-        },
   ...
+      components: {
+          draggable,
+      },
+  ...
+  }
 ```
 
 ### transition-group:
